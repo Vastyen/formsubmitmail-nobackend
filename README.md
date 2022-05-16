@@ -12,14 +12,14 @@ Example
 
                To recive emails from the current website the method need confirm the e-mail.
 
-Added anothers for no-captcha form 
-              <input type="hidden" name="_captcha" value="false">
+# No-captcha 
+               <input type="hidden" name="_captcha" value="false">
 
-              If you wan't the captcha, just remove the line.
+               If you wan't the captcha, just remove the line.
     
-No spam box
-             <input type="text" name="_honey" style="display:none">
+# No spam box
+              <input type="text" name="_honey" style="display:none">
     
-Thank you page 
-              <input type="hidden" name="_next" value="nextpage">
-              The nextpage it's de the sucesfull/thankyou submit page.
+# Thank you page 
+               <input type="hidden" name="_next" value="nextpage">
+               The nextpage it's de the sucesfull/thankyou submit page.
