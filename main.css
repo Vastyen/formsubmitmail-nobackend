@@ -1,0 +1,77 @@
+.form {
+    width: 90vw;
+    height: 90vh;
+    background: #e6e6e6;
+    border-radius: 8px;
+    box-shadow: 0 0 40px -10px #000;
+    margin: 0 auto;
+    margin-top: 3vw;
+    padding: 20px 30px;
+    max-width: calc(100vw - 40px);
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    position: relative
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    height: 25vh;
+    box-sizing: border-box;
+    background: none;
+    outline: none;
+    color: black;
+    resize: none;
+    border: 0;
+    font-family: 'Montserrat',
+        sans-serif;
+    transition: all .3s;
+    border-bottom: 2px solid #bebed2;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    background: none;
+    outline: none;
+    resize: none;
+    color: black;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    transition: all .3s;
+    border-bottom: 2px solid #bebed2
+}
+
+input:focus {
+    border-bottom: 2px solid #78788c
+}
+
+p:before {
+    content: attr(type);
+    display: block;
+    margin: 28px 0 0;
+    font-size: 14px;
+    color: black;
+}
+
+button {
+    float: right;
+    padding: 8px 12px;
+    margin: 8px 0 0;
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid #78788c;
+    background: 0;
+    color: black;
+    cursor: pointer;
+    transition: all .3s
+}
+
+button:hover {
+    background: #78788c;
+    color: black;
+}
+
+span {
+    margin: 0 5px 0 15px
+}
