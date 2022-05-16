@@ -2,6 +2,8 @@
 
 Just HTML, no Backend, no Php and no Node.js
 
+https://formsubmit.co
+
 Replace the keys and the text inside for your settings.
 
 <form class="form" target="_blank" action="https://formsubmit.com/{mailhere}" method="POST">
