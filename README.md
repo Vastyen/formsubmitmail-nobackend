@@ -1,6 +1,6 @@
 # Form Mail Submit with HTML 
 
-Just HTML, not Backend, not Php, not Node.js
+Just HTML, no Backend, no Php and no Node.js
 
 Replace the keys and the text inside for your settings.
 
