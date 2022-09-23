@@ -1,8 +1,10 @@
 # Form Mail Submit with HTML 
 
-Just HTML, no Backend, no Php and no Node.js
+Just HTML.        
+No Backend             
+No Php                  
+No Node.js            
 
-https://formsubmit.co
 
 Replace the keys and the text inside for your settings.
 
